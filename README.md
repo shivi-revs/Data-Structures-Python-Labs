@@ -2,27 +2,28 @@
 Python implementations of Data Structures and Algorithms
 
 # Data Structures (Python) Labs
-![Python](https://img.shields.io/badge/python-3.x-blue.svg)
+![Python](https://img.shields.io/badge/python-3.14-blue.svg)
 
-**Course:** Data Structures & Algorithms (22EC343)
-**Student Name:** [Shivang Mamgain]
-**Roll No:** [2310994554]
-**Department** [Electronics and Communications Engineering]
-**Institute** [Chitkara University Institute of Engineering and Technlogy, Rajpura, Punjab]
+* **Course:** Data Structures & Algorithms (22EC343)
+* **Course Coordinator:** Dr. Rajvir Singh
+* **Student Name:** [Shivang Mamgain]
+* **Roll No:** [2310994554]
+* **Department** [Electronics and Communications Engineering]
+* **Institute** [Chitkara University Institute of Engineering and Technlogy, Rajpura, Punjab]
 
 ## Directory Structure
-* `/Experiment_01_Search`
-* `/Experiment_02_SinglyLinkedList`
-* `/Experiment_03_DoublyLinkedList`
-* `/Experiment_04_Graph_Representation`
-* `/Experiment_05_Queue`
-* `/Experiment_06_Stack_Postfix`
-* `/Experiment_07_Graph_Traversal`
-* `/Experiment_08_BinarySearchTree`
-* `/Experiment_09_Heapsort`
-* `/Experiment_10_Bubble_Selection_Sort`
-* `/Experiment_11_Merge_Quick_Sort`
-* `/Experiment_12_Hashing`
+* **`/Experiment_01_Search`** - Implementation of Linear and Binary Search algorithm for arrays.
+* **`/Experiment_02_SinglyLinkedList`** - Implementation of Node insertion and deletion logic for a singly linked list.
+* **`/Experiment_03_DoublyLinkedList`** - Building a bidirectional traversal system using a doubly linked list.
+* **`/Experiment_04_Graph_Representation`** - Graph representation and addition/deletion of vertices and edges.
+* **`/Experiment_05_Queue`** - Implement insert and delete operations on a Queue.
+* **`/Experiment_06_Stack_Postfix`** - Implement Infix to Postfix conversion with Parentheses matching using a stack.
+* **`/Experiment_07_Graph_Traversal`** - BFS/ DFS traversal of a Graph.
+* **`/Experiment_08_BinarySearchTree`** - Building a Binary Search Tree with search and traversal.
+* **`/Experiment_09_Heapsort`** - Building a min-Heap and implementation of heapsort.
+* **`/Experiment_10_Bubble_Selection_Sort`** - Implementation and performance analysis of Bubble and Selection Sort algorithms using timeit.
+* **`/Experiment_11_Merge_Quick_Sort`** - Implementation and performance analysis of Divide and Conquer algorithms (Merge Sort and Quick Sort) using timeit.
+* **`/Experiment_12_Hashing`** - Implementation of Hashing with collision resolution using Chaining or Open Addressing.
 
 ---
 
